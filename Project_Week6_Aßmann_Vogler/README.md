@@ -1,2 +1,2 @@
 ## Before running the notebook
-Please ensure that the data (67_otu_table.biom) and metadata (550_prep_72_qiime_20161216-085930.txt) is located in your google drive path /content/drive/My Drive/.
+Please ensure that the data (67\_otu\_table.biom) and metadata (550\_prep\_72\_qiime_20161216-085930.txt) is located in your google drive path /content/drive/My Drive/. The data can be obtained from https://github.com/twbattaglia/MicrobeDS/tree/master/data-raw/MovingPictures.
