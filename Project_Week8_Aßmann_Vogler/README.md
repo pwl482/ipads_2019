@@ -6,4 +6,5 @@ In code cells 4 and 7 replace PROJECTID by your Google Cloud project id wihtout 
 <br>
 2. Place the Stress and Sleep folders from EMA/response into your Google drive. Do the same for sensing/activity and sensing/conversation. 
 Now set the basepath variable in code cell 3 to the full path of the Google drive directory where you placed the data files. 
+<br>
 3. Please mind that in code cells 1 and 2 your are asked to mount your Google drive and provide your credentials before beeing able to run the cells below.
