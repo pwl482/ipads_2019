@@ -3,4 +3,4 @@ Please mind the cells below the 'Before you begin' section: Providing credential
 ## Note
 One cell was removed after deadline that did not run in the notebook and was not essential to the project tasks.
 ## Improved Report
-IPADS\_report4\_v2\_latex.pdf
+Changed weird characters: IPADS\_report4\_v2\_latex.pdf
