@@ -5,4 +5,5 @@
 
 ## Improved Report and Notebook
 Figure 1 of the report showed identical time series for the student's u10 and u16 because of a typo in the notebook when loading the data from GCP. 
-This was fixed and the report was adapted correspondingly. Find the updated version in IPADS\_report8\_v2\_latex.pdf and IPADS\_Project\_Week8\_v2.ipynb.
+This was fixed and the report was adapted correspondingly. Also the measure that was used to assess the performance of the implemented student's state prediction
+was described better. Find the updated version in IPADS\_report8\_v2\_latex.pdf and IPADS\_Project\_Week8\_v2.ipynb.
